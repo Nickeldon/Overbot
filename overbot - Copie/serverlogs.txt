@@ -1,0 +1,2564 @@
+2023-03-18T14:42:21.679Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+2023-03-18T14:42:26.774Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T14:55:28.882Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T14:55:30.489Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T14:55:37.126Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T14:57:14.136Z - loading requested media content : https://www.youtube.com/watch?v=f7Gzs6IjkEc by undefined server: <#970078526038503487>
+ 
+VOICE --> 2023-03-18T14:57:14.238Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T14:59:05.465Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T14:59:20.667Z - loading requested media content : https://www.youtube.com/watch?v=f7Gzs6IjkEc by undefined; server: général
+ 
+VOICE --> 2023-03-18T14:59:20.739Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T15:00:17.287Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T15:00:33.572Z - loading requested media content : https://www.youtube.com/watch?v=f7Gzs6IjkEc by <@418762590454284289>; server: <#970078526038503487>
+ 
+VOICE --> 2023-03-18T15:00:33.670Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T15:01:13.103Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T15:01:18.665Z - loading requested media content : https://www.youtube.com/watch?v=f7Gzs6IjkEc by <@418762590454284289>; server: <#970078526038503487>
+ 
+VOICE --> 2023-03-18T15:01:18.755Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T15:03:06.138Z - loading requested media content : https://www.youtube.com/watch?v=f7Gzs6IjkEc by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-18T15:03:06.240Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T15:09:55.026Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T16:33:39.594Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T16:34:28.415Z - loading requested media content : https://www.youtube.com/watch?v=g8ENtHe2hMU by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-18T16:34:28.487Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T16:35:06.095Z - loading requested media content : https://www.youtube.com/watch?v=g8ENtHe2hMU by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-18T16:35:28.571Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:11:42.615Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:11:43.646Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:11:48.760Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:12:16.267Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:12:18.079Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:12:28.936Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:12:30.998Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:12:36.415Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:12:41.644Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:13:31.515Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:13:33.947Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T18:19:50.558Z - loading requested media content : https://www.youtube.com/shorts/XXE7gpp-RBM by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-18T18:19:50.638Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:20:13.491Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T18:20:56.484Z - loading requested media content : https://www.youtube.com/watch?v=f7Gzs6IjkEc&list=RDf7Gzs6IjkEc&start_radio=1 by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-18T18:20:56.548Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:22:00.245Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:27:45.299Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-18T18:38:59.052Z - loading requested media content : https://www.youtube.com/watch?v=ibHU7K2mnVg&list=PL9SwytZf2BP0Z1sU5geBUFNG22durc679 by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-18T18:38:59.138Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:45:48.144Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T18:46:57.397Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T19:16:23.892Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T19:16:26.381Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-18T19:16:42.616Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T20:08:18.058Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T20:08:20.249Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T20:08:23.280Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T20:11:27.774Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T20:14:51.399Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T20:34:35.294Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T20:46:40.661Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T20:49:22.529Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T20:59:00.843Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:15:34.674Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:16:32.336Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:25:20.206Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:25:20.945Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:26:32.064Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:26:42.856Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:26:44.537Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:28:58.592Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:37:53.698Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T21:44:36.086Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T22:12:02.667Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T22:28:11.371Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T22:28:43.459Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-18T22:32:10.549Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-19T00:59:07.966Z - loading requested media content : https://www.youtube.com/watch?v=wQUH06QRCi4&list=RDwQUH06QRCi4&start_radio=1 by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-19T00:59:08.050Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:04:19.942Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-19T01:06:01.820Z - loading requested media content : https://www.youtube.com/watch?v=7JEjQG4-tpU by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-19T01:06:01.878Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:10:42.908Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:27:38.361Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:27:39.574Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:28:38.000Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:28:54.444Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:29:44.427Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:32:29.900Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:32:58.382Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T01:33:03.538Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T02:01:18.695Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T02:20:49.680Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T02:23:32.382Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T02:27:54.712Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-19T02:27:58.462Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-19T02:38:45.817Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-20T02:01:07.896Z - loading requested media content : https://www.youtube.com/watch?v=q74fX9CnqtQ by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-21T23:15:30.084Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-21T23:16:26.382Z - loading requested media content : https://www.youtube.com/watch?v=gFhCYFjt3MI by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-21T23:16:26.430Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:16:38.610Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-21T23:20:30.021Z - loading requested media content : https://www.youtube.com/watch?v=gFhCYFjt3MI by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-21T23:20:30.118Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:21:30.939Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:22:05.931Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-21T23:28:07.776Z - loading requested media content : https://www.youtube.com/watch?v=gFhCYFjt3MI by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-21T23:28:07.832Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:28:14.717Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:30:24.220Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:31:53.673Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-21T23:33:43.779Z - loading requested media content : https://www.youtube.com/watch?v=gFhCYFjt3MI by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-21T23:33:43.851Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:34:05.188Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:43:00.095Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:43:43.020Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-21T23:44:08.198Z - loading requested media content : https://www.youtube.com/watch?v=611k184Ia3E&list=PL5OQUkTRJ6cK1TYTbEHDdSV3itjmIqu1_&index=1 by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-21T23:44:08.244Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:44:30.242Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:48:05.552Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-21T23:51:12.017Z - loading requested media content : https://www.youtube.com/playlist?list=PL9SwytZf2BP0Z1sU5geBUFNG22durc679 by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-21T23:51:12.090Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:52:12.598Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:53:13.066Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:54:13.581Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:55:14.091Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:56:14.588Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:57:15.178Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:58:15.697Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:59:16.150Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-21T23:59:27.464Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:00:16.655Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:01:17.173Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:02:17.727Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:03:18.266Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:04:18.779Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:05:19.372Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:06:20.098Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:07:20.845Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:08:21.372Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:09:21.879Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:10:22.580Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:11:23.184Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:12:23.852Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:13:24.495Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:14:24.997Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:15:25.574Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:16:26.302Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:17:27.163Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:18:27.807Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:19:28.325Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:20:28.843Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:21:29.414Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:22:29.931Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:23:30.400Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:24:30.886Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:25:31.435Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:26:31.934Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:27:32.487Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:28:32.931Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:29:33.549Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:30:34.086Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:31:34.666Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:32:35.264Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:33:35.886Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:34:36.385Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:35:36.971Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:36:37.501Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:37:38.073Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:38:20.342Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:38:23.927Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:38:36.484Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:38:38.640Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:38:42.025Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:38:47.177Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:39:03.349Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:39:07.252Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:39:39.273Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:05.894Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:06.179Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:08.079Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:08.919Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:12.746Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:13.550Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:27.152Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:28.006Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:28.462Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:29.160Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:40:39.833Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:41:30.131Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:41:40.391Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:42:40.970Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:43:41.534Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:44:42.040Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:45:42.619Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:46:43.236Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:47:43.782Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:51:23.446Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:52:02.559Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:52:04.952Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:52:15.414Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:52:16.845Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-22T00:52:24.038Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T03:02:02.233Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T03:15:03.972Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T03:23:26.356Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T03:58:19.988Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T04:23:45.748Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T04:23:46.889Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T04:23:49.203Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T04:28:50.118Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T04:42:27.798Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T04:42:27.968Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T15:50:55.679Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-22T15:51:37.842Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-22T15:56:36.277Z - loading requested media content : https://www.youtube.com/watch?v=9LW9DpmhrPE by ニッケルドン; server: 970078526038503487
+ 
+MUSIC_ENGINE --> 2023-03-22T16:00:32.546Z - loading requested media content : https://www.youtube.com/watch?v=9LW9DpmhrPE by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-22T16:00:32.839Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-22T16:00:52.629Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T16:17:19.832Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T16:17:28.513Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-22T16:23:12.197Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T23:10:23.262Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-22T23:10:29.845Z - loading requested media content : https://www.youtube.com/watch?v=f7Gzs6IjkEc&list=RDf7Gzs6IjkEc&start_radio=1 by ニッケルドン; server: 970078526038503487
+ 
+MUSIC_ENGINE --> 2023-03-22T23:24:30.533Z - loading requested media content : https://www.youtube.com/watch?v=f7Gzs6IjkEc&list=RDf7Gzs6IjkEc&start_radio=1 by ニッケルドン; server: 970078526038503487
+ 
+MUSIC_ENGINE --> 2023-03-22T23:26:07.140Z - loading requested media content : https://www.youtube.com/watch?v=f7Gzs6IjkEc&list=RDf7Gzs6IjkEc&start_radio=1 by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-22T23:26:07.232Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-22T23:26:07.234Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-22T23:55:50.894Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-22T23:56:16.621Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T00:03:07.001Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T00:03:07.091Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:03:07.092Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T00:05:11.155Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+MUSIC_ENGINE --> 2023-03-23T00:07:24.940Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T00:07:25.005Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T00:09:12.721Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T00:09:12.785Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T00:19:14.682Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T00:19:14.742Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T00:23:30.272Z - loading requested media content : clanad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T00:23:30.350Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:23:55.803Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T00:24:40.588Z - loading requested media content : https://www.youtube.com/watch?v=ibHU7K2mnVg&list=PL9SwytZf2BP0Z1sU5geBUFNG22durc679 by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T00:24:40.660Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:25:41.203Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:26:42.000Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:27:42.683Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:28:43.207Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:29:43.758Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:30:44.362Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:31:44.853Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:32:45.352Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:33:45.969Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:34:46.518Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:35:47.099Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:36:47.602Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:37:48.264Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:38:48.917Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:39:49.563Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:40:50.108Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:41:50.636Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:42:51.140Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:43:51.683Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:44:52.159Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:45:52.658Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:46:53.218Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:47:53.709Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T00:54:11.937Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T00:54:12.011Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T00:55:00.014Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:02:51.185Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:03:26.179Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:07:08.371Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:07:13.435Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:07:22.846Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:07:26.742Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:07:41.443Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:07:42.589Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:07:46.889Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:07:51.085Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:08:04.833Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:08:06.395Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:08:19.138Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:41:03.312Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:41:09.540Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T01:52:28.206Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T02:44:19.907Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T04:30:07.686Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T04:31:02.026Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T04:31:22.544Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T04:31:30.725Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T05:03:15.749Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T05:10:55.521Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T05:11:16.037Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T05:17:05.565Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T05:57:01.392Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T05:57:02.100Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T14:47:11.412Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T14:47:12.768Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T14:47:34.930Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T14:47:34.988Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T14:48:36.092Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T14:49:36.561Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T14:50:37.027Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T14:51:37.494Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T14:52:38.006Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T14:53:38.419Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T17:37:32.267Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T17:37:32.346Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T17:38:33.288Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T17:40:28.306Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:15:16.165Z - loading requested media content : https://www.youtube.com/watch?v=JpGmMfdEcwk by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:15:16.269Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:16:17.243Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:16:21.706Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:24:59.237Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:25:20.183Z - loading requested media content : https://www.youtube.com/watch?v=JpGmMfdEcwk by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:25:20.267Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:31:57.059Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:31:57.176Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:32:04.546Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:32:35.544Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:32:35.635Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:33:00.465Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:33:00.552Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:33:31.501Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:33:31.570Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:33:57.676Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:33:57.781Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:37:10.607Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:37:10.674Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:38:43.870Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:38:43.923Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:40:03.206Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:40:03.261Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:40:31.819Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:40:31.876Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:41:06.332Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:47:10.009Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:48:02.545Z - loading requested media content : clannae by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:48:02.615Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:49:03.254Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:50:04.680Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:50:14.841Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:54:57.931Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:54:57.985Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T22:56:06.238Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T22:56:06.310Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:57:07.112Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T22:58:07.817Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T23:01:27.651Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T23:01:27.711Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T23:02:50.054Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T23:02:50.141Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T23:06:15.850Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T23:06:15.925Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T23:08:13.543Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T23:08:13.625Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T23:08:34.248Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T23:08:34.308Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T23:09:34.899Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T23:10:02.545Z - loading requested media content : https://www.youtube.com/watch?v=JpGmMfdEcwk by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T23:10:24.437Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T23:12:03.287Z - loading requested media content : https://www.youtube.com/watch?v=bLZAQcpSGqA&list=RDbLZAQcpSGqA&start_radio=1 by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T23:12:03.371Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-23T23:12:54.033Z - loading requested media content : https://www.youtube.com/watch?v=Yvs7gfWqNSE&list=PL5OQUkTRJ6cKLSj3Sged7MK0QkgXCGzmS by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-23T23:13:04.107Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T23:14:04.749Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T23:15:05.322Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-23T23:16:05.945Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T00:04:36.005Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-24T00:04:41.015Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T00:07:55.992Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T00:11:42.870Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T00:11:48.629Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T00:15:07.031Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T00:15:34.990Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-24T00:59:11.207Z - loading requested media content : conan by ニッケルドン; server: 970078526038503487
+ 
+MUSIC_ENGINE --> 2023-03-24T01:01:10.643Z - loading requested media content : detective conan ost #42 by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-24T01:01:10.713Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:02:11.542Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:03:12.261Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:04:13.087Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:05:13.732Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:06:14.276Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-24T01:06:31.138Z - loading requested media content : https://www.youtube.com/watch?v=ibHU7K2mnVg&list=PL9SwytZf2BP0Z1sU5geBUFNG22durc679 by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-24T01:07:15.171Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:08:15.696Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:09:16.595Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:10:17.300Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:11:17.957Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:12:18.664Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:13:19.312Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:14:19.952Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:15:20.538Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:16:21.367Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:17:21.870Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:18:22.601Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:19:23.312Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:20:23.896Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:21:24.371Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:22:24.873Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:23:25.391Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:24:26.014Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:25:26.547Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:26:27.139Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:27:27.828Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:28:28.456Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:29:29.011Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:30:29.650Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:31:30.282Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:32:30.806Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:33:31.479Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:34:32.176Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:35:32.879Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:36:33.390Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:37:34.256Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:38:34.764Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:39:35.589Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:40:36.200Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:41:36.743Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:42:37.503Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:43:38.122Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:44:38.733Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:45:39.361Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:46:40.007Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:47:40.640Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:48:41.192Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:49:41.676Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:50:42.427Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:51:43.130Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:52:43.693Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:53:44.411Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:54:45.000Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:55:45.736Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:56:46.381Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:57:46.947Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:58:47.654Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T01:59:48.322Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:00:48.931Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:01:49.582Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:02:50.238Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:03:50.726Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:04:51.303Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:05:51.980Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:06:52.667Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:07:53.143Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:08:53.658Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:09:54.182Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:10:54.720Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:11:55.219Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:12:55.694Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:13:56.234Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:14:56.728Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:15:57.229Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:16:57.681Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:17:58.172Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:18:58.675Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:19:59.211Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:20:59.671Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:22:00.184Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:23:00.657Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:24:01.162Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:25:01.663Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:26:02.147Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:27:02.626Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:28:03.141Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:29:03.617Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:30:04.089Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:31:04.583Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:32:05.092Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:33:05.832Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:34:06.442Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:35:06.905Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:36:07.405Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:37:07.964Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:38:08.497Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:39:09.084Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:40:09.709Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:41:10.510Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:42:11.026Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:42:31.156Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:42:42.078Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:43:11.657Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:44:12.317Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:44:19.139Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:45:12.942Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:46:13.499Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:47:14.026Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:47:33.813Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:48:02.309Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:48:14.577Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:49:15.312Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:50:15.993Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:51:16.579Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:52:17.284Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:53:17.774Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:54:18.303Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:55:18.912Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:56:19.438Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:57:19.916Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:58:20.436Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T02:59:20.968Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:00:21.803Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:01:22.393Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:02:22.954Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:03:23.579Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:04:24.303Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:05:24.855Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:06:25.731Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:07:26.405Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:08:27.064Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:09:27.717Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:10:28.256Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:11:28.859Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:12:29.436Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:13:29.958Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:14:30.483Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:15:31.013Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:16:31.572Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:17:32.116Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:18:32.630Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:19:33.304Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:20:33.939Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:21:34.489Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:22:35.169Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:23:35.763Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:24:36.422Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:25:37.031Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:26:37.520Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:27:38.076Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:28:38.725Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:29:39.426Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:30:40.087Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:31:40.770Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:32:41.225Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:33:42.098Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:34:42.694Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:35:43.346Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:36:43.831Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:37:45.140Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:38:45.819Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:39:46.487Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:40:47.175Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:41:47.913Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:42:48.375Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:43:48.847Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:44:49.392Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:45:45.561Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:45:49.848Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:46:50.353Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:47:50.830Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:48:51.325Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:49:52.021Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:50:52.522Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:51:53.021Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:52:53.512Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:53:53.994Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:54:54.515Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:55:54.961Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:56:54.418Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:56:55.436Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:57:55.950Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:58:56.524Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T03:59:57.088Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:00:57.787Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:01:58.444Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:02:59.037Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:03:59.621Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:05:00.158Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:05:06.728Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:06:00.701Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:06:31.107Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:07:01.205Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:08:01.673Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:09:02.131Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:10:02.586Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:11:03.090Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:12:03.552Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:13:04.007Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:14:04.516Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:15:04.975Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:16:05.391Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:17:05.861Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:18:06.290Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:18:25.177Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:18:30.317Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:18:31.502Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:19:06.771Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:20:07.338Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:21:07.913Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:22:08.393Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:22:47.289Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:23:08.877Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:24:09.332Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:25:09.773Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:26:10.236Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:27:10.687Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:28:11.161Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:29:11.674Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:30:12.152Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:31:12.563Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:32:13.010Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:33:13.495Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:34:13.956Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:35:14.462Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:36:14.969Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:37:15.439Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:38:15.877Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:39:16.370Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:40:16.816Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:41:17.276Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:42:17.733Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:43:18.200Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:44:18.646Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:45:19.073Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:46:19.584Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:47:20.061Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:48:20.550Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:49:21.027Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:50:21.512Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:51:21.988Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:52:22.486Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:53:22.998Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:54:23.477Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:55:23.911Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:56:24.429Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:57:24.895Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:58:25.389Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T04:59:25.890Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T05:00:26.328Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T05:01:26.812Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T05:01:35.723Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T05:01:36.938Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T05:01:36.994Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T12:03:31.734Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-24T12:08:04.725Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-24T12:13:40.383Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T13:09:39.432Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-24T13:10:12.670Z - loading requested media content : https://youtu.be/9LW9DpmhrPE by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-24T13:10:12.727Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-24T13:11:13.906Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-24T13:11:35.404Z - loading requested media content : https://youtu.be/9LW9DpmhrPE by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-24T13:12:15.358Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T13:12:31.821Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-24T15:46:39.344Z - loading requested media content : suzume no tojimari by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-24T15:46:39.428Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-24T15:50:03.302Z - loading requested media content : suzume by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-24T15:50:03.885Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-24T15:50:52.376Z - loading requested media content : suzume by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-24T15:50:53.013Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-24T15:51:29.086Z - loading requested media content : suzume by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-24T15:51:54.173Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T15:52:54.865Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-24T15:52:58.223Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T00:38:41.980Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-25T00:38:49.126Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T00:38:59.071Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T00:39:00.185Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-25T00:49:07.223Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T01:51:51.683Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T01:51:56.325Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T01:52:34.451Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T02:56:06.539Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T03:05:08.097Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T03:09:09.319Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T03:09:34.570Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-25T03:33:59.090Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T03:51:31.903Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T06:24:56.973Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T06:25:01.970Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-25T22:25:56.022Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-26T02:33:29.481Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T02:33:30.155Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T02:33:30.757Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T03:34:33.299Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T03:41:43.420Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T03:55:47.587Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T03:57:26.030Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T03:57:28.191Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T04:05:42.619Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T04:05:50.061Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T11:08:31.568Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-26T11:08:39.579Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-26T11:08:39.627Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-26T11:09:11.415Z - loading requested media content : sweden by ニッケルドン; server: 970078526038503487
+ 
+MUSIC_ENGINE --> 2023-03-26T11:09:20.617Z - loading requested media content : sweden by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-26T11:09:40.421Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T11:10:40.940Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T11:11:37.878Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T11:11:37.939Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T11:11:47.808Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-26T11:11:51.487Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T18:43:29.962Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-26T18:43:42.469Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-26T18:53:48.325Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T19:21:54.214Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T19:28:44.200Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T20:16:21.175Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T20:43:46.060Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T20:49:25.613Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T20:52:18.756Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T21:12:11.060Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T22:12:29.241Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T22:25:45.267Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T22:56:40.318Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T22:56:45.776Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-26T23:03:16.124Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T23:11:37.930Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T23:11:40.817Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T23:11:50.043Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-26T23:13:56.006Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:04:58.023Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:05:02.640Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:05:15.045Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-27T00:16:49.987Z - loading requested media content : https://www.youtube.com/watch?v=ibHU7K2mnVg&list=PL9SwytZf2BP0Z1sU5geBUFNG22durc679 by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-27T00:16:50.049Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:17:50.661Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:18:51.150Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:19:51.679Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:20:52.176Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:21:53.516Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:22:03.949Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:22:14.749Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:22:17.175Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:22:54.055Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:23:54.538Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:24:55.039Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:25:42.052Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:25:55.599Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:26:56.139Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:27:56.652Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:28:57.094Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:29:57.633Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:30:58.107Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:31:58.681Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:32:59.267Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:33:59.813Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:35:00.344Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:36:00.873Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:37:01.397Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:38:01.860Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:39:02.383Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:40:02.898Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:41:03.361Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:41:16.501Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:42:03.918Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:42:48.258Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:43:04.455Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:44:04.974Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:45:05.507Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:45:45.568Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:46:06.033Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:47:06.531Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:48:07.065Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:49:07.593Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:50:08.133Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:51:08.658Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:52:09.190Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:53:09.727Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:54:10.232Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:55:10.759Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:56:11.277Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:57:11.834Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:58:12.458Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T00:59:12.955Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:00:13.485Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:01:14.002Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:02:14.503Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:02:28.307Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:03:15.033Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:04:15.611Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:05:16.345Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:06:16.993Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:07:17.552Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:08:18.091Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:09:18.620Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:10:19.196Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:11:19.744Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:12:20.285Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:13:20.811Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:13:45.200Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:13:46.705Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:14:21.318Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:15:21.818Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:16:22.341Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:17:22.883Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:18:23.390Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:20:12.093Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-27T01:20:18.990Z - loading requested media content : believe in nexus by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-27T01:20:19.053Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-27T01:21:23.282Z - loading requested media content : believe in nexus by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-27T01:21:23.384Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:22:23.917Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-27T01:22:49.897Z - loading requested media content : dragon ball super survivor by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-27T01:23:24.434Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-27T01:23:43.148Z - loading requested media content : dragon ball super survivor jap by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-27T01:24:24.987Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:25:22.348Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-27T01:25:53.992Z - loading requested media content : dragon ball super op 1 by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-27T01:25:54.054Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:26:54.643Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-27T01:27:15.539Z - loading requested media content : cha la head cha la jap by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-27T01:27:55.149Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:28:55.699Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:29:34.311Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:29:55.079Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:29:56.223Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:30:56.770Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:31:57.515Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:32:58.005Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:33:58.540Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:34:59.075Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:35:59.636Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:37:00.147Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:38:00.677Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:38:11.341Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-27T01:38:22.903Z - loading requested media content : https://www.youtube.com/watch?v=pYnLO7MVKno&list=PL9SwytZf2BP0Z1sU5geBUFNG22durc679&index=45 by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-27T01:38:22.979Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:39:03.519Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:39:23.479Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:40:24.050Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:40:33.727Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-27T01:40:42.788Z - loading requested media content : CHA-LA HEAD CHA-LA - Dragonball Z (Opening Theme) [OST Full] by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-27T01:40:42.843Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:40:50.245Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:41:43.406Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:42:43.902Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:43:44.434Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:44:44.966Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:45:45.484Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:46:46.031Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:47:46.586Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:48:47.083Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:49:47.626Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:50:48.126Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:51:48.632Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:52:49.120Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:53:49.624Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:53:56.626Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:53:57.608Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:54:06.891Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:54:08.109Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:54:50.171Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:54:51.459Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:55:50.752Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:56:51.365Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:57:51.945Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:58:52.522Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:58:56.260Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T01:59:53.031Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:00:53.524Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:01:54.060Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:02:54.608Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:03:55.142Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:04:55.723Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:05:56.230Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:06:56.822Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:07:57.550Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:08:06.474Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:17:04.948Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:21:10.645Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:21:30.296Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:29:19.912Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:31:25.474Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:52:43.491Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:57:09.679Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T02:57:18.403Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T12:43:03.238Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T12:43:06.063Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T16:37:46.428Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T16:58:22.787Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T18:12:50.261Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T18:13:33.482Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T18:21:25.780Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T21:19:53.907Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T23:43:04.003Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T23:55:53.478Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-27T23:56:01.034Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-27T23:58:30.784Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:20:44.870Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:20:47.668Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:20:47.895Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:20:48.885Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:20:56.402Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:20:58.884Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:21:13.242Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:22:13.911Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:27:53.773Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:44:00.355Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:44:04.337Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:44:09.338Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:44:10.571Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:51:18.560Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T01:56:45.272Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-28T02:10:35.609Z - loading requested media content : girl bunny senpai lofi by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-28T02:10:35.683Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:11:18.677Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-28T02:12:29.501Z - loading requested media content : https://www.youtube.com/watch?v=PIL8I32Ko2A by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-28T02:12:29.573Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:13:30.149Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-28T02:13:48.923Z - loading requested media content : https://www.youtube.com/watch?v=njm4AMeWys8 by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-28T02:14:30.723Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:15:31.237Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:15:45.086Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-28T02:16:24.308Z - loading requested media content : https://www.youtube.com/watch?v=njm4AMeWys8 by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-28T02:16:24.369Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:17:25.026Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:18:25.529Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:19:11.998Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:49:15.599Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:53:18.499Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:53:55.523Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:53:56.936Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-28T02:55:12.991Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T03:00:23.369Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T03:01:52.467Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-28T14:21:20.439Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-28T14:21:20.506Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:21:26.386Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:22:21.054Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:23:21.591Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:24:22.054Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:25:22.645Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:26:23.432Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:27:23.933Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:28:24.416Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:29:24.964Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-28T14:45:12.616Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-28T14:45:12.719Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-28T14:45:35.304Z - loading requested media content : clannad by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-03-28T14:45:35.406Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:46:35.902Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T14:46:55.746Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T15:03:56.229Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T22:54:45.561Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-28T23:29:53.603Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-28T23:29:55.223Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T23:36:34.116Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-28T23:52:30.217Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:32:02.240Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:36:41.672Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-03-29T00:36:50.365Z - loading requested media content : https://www.youtube.com/watch?v=ibHU7K2mnVg&list=PL9SwytZf2BP0Z1sU5geBUFNG22durc679 by CharlieDelta45; server: 970078526038503487
+ 
+VOICE --> 2023-03-29T00:36:50.442Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:37:51.059Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:38:51.595Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:39:45.919Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:39:52.126Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:40:52.759Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:41:53.349Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:42:39.544Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:42:51.124Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:42:53.935Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:43:54.828Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:44:55.504Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:45:56.015Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:46:56.546Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:47:57.163Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:48:57.723Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:49:58.528Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:50:59.081Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:51:59.688Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:53:00.246Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:54:00.804Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:55:01.363Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:56:01.938Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:57:02.543Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:58:03.155Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T00:59:03.768Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:00:04.373Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:01:05.024Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:02:05.620Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:03:06.195Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:04:06.779Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:05:07.350Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:06:07.976Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:07:08.492Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:08:09.070Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:09:09.593Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:10:10.222Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:11:10.739Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:12:11.341Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:13:11.863Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:14:12.404Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:15:12.954Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:16:13.586Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:17:14.146Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:18:14.692Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:19:15.495Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:20:16.419Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:21:16.992Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:22:17.538Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:23:18.088Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:24:18.685Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:25:19.287Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:26:19.885Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:27:20.448Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:28:20.988Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:29:21.583Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:30:22.068Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:31:22.623Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:32:23.181Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:33:23.802Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:34:24.321Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:35:25.165Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:36:25.646Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:37:26.184Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:38:26.847Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:39:27.570Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:40:28.230Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:41:28.747Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:42:29.250Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:43:29.749Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:44:30.324Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:45:30.865Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:46:31.391Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:47:31.996Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:48:32.530Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:49:33.109Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:50:33.674Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:50:48.208Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:50:49.086Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:51:34.255Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:52:34.914Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:53:35.601Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:54:36.219Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:55:36.677Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:56:37.308Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:57:37.916Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:58:38.444Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T01:59:38.950Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:00:39.388Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:01:40.092Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:02:40.748Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:03:41.350Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:04:41.903Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:05:42.603Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:06:43.126Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:07:43.703Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:08:44.416Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:09:45.055Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:10:45.676Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:11:46.167Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:12:46.639Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:13:19.159Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:13:47.147Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:14:47.764Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:15:48.303Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:16:48.832Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:17:49.295Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:18:49.783Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:19:50.338Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:20:50.901Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:21:30.713Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:21:51.507Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:22:52.034Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:23:52.542Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:24:53.036Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:25:53.562Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:26:54.070Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:27:54.553Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:28:55.046Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:29:55.532Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:30:56.010Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:31:56.478Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:32:56.981Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:33:57.476Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:34:57.952Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:35:58.424Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:36:58.838Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:37:59.310Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:38:59.740Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:40:00.217Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:41:00.659Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:41:52.922Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:42:01.135Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:43:01.619Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:44:02.074Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:45:02.487Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:46:02.974Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:47:03.397Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:48:03.840Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:49:04.293Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:50:04.738Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:51:05.202Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:52:05.682Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:53:06.094Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:54:06.538Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:55:06.950Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:56:07.375Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:57:07.786Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:58:08.218Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:58:38.361Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:58:38.728Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:58:44.943Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:58:47.138Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:58:57.533Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T02:59:08.726Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:00:09.158Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:01:09.666Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:02:10.141Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:03:10.555Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:04:10.958Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:05:11.410Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:06:12.133Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:07:12.597Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:08:13.028Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:09:13.517Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:10:14.002Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:11:14.416Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:12:14.842Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:13:15.248Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:14:15.700Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:15:16.167Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:16:16.605Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:17:17.005Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:18:17.398Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:19:17.807Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:20:18.242Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:21:18.693Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:22:19.091Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:23:19.562Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:24:19.981Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:24:31.137Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:25:20.395Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:26:04.223Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:26:20.927Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T03:27:21.360Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-29T23:59:59.522Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-30T00:27:25.698Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T00:37:55.588Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T00:37:56.591Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-30T00:37:59.995Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T00:38:00.196Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T00:38:08.799Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T00:39:27.456Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T00:48:12.907Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T00:50:47.720Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T01:15:20.915Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T01:28:24.896Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T01:28:50.853Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T01:30:48.473Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T01:31:28.342Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T01:31:38.652Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T02:03:45.361Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T02:03:50.683Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T02:03:52.857Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T02:03:55.125Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T02:03:57.309Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T02:04:17.386Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T02:42:58.594Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T03:00:11.245Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T03:00:23.101Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T03:00:25.500Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-30T03:06:17.179Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-30T23:37:03.191Z - ニッケルドン#1804 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-30T23:37:06.169Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T00:03:37.365Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-31T00:08:24.091Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T00:19:26.617Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T00:33:13.531Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T00:34:02.330Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-31T00:34:26.678Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T00:34:30.321Z - CharlieDelta45#4684 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-03-31T00:38:55.221Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T00:58:39.263Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T01:03:15.254Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T02:04:35.310Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T02:04:43.994Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T02:04:56.729Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T02:10:33.003Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T03:13:36.930Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-03-31T03:13:41.527Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
+MUSIC_ENGINE --> 2023-04-01T03:29:59.130Z - loading requested media content : https://www.youtube.com/playlist?list=PL5OQUkTRJ6cK1TYTbEHDdSV3itjmIqu1_ by ニッケルドン; server: 970078526038503487
+ 
+VOICE --> 2023-04-01T03:29:59.203Z - Lelouch Vi Botannia#3863 joined Salon  server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:30:23.946Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:30:59.825Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:32:00.365Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:33:00.860Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:34:01.344Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:35:01.977Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:36:02.513Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:37:03.083Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:38:03.524Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:39:04.063Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:40:04.539Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:41:05.010Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:42:05.547Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:43:06.126Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:44:06.646Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:45:07.255Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:46:07.724Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:47:08.194Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:48:08.688Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:49:09.185Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:50:09.836Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:51:10.401Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:52:10.945Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:53:11.486Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:54:12.051Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:55:12.590Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:56:13.113Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:57:13.582Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:58:14.527Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T03:59:15.006Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:00:15.774Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:01:16.299Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:01:51.061Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:02:16.748Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:03:17.223Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:04:17.699Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:05:18.217Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:06:18.679Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:07:19.140Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:08:19.630Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:09:20.107Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:10:20.582Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:11:21.023Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:12:21.526Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:13:22.046Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:14:22.553Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:15:23.046Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:16:23.543Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:17:24.032Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:18:24.506Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:19:24.954Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:20:25.454Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:21:25.924Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:22:26.342Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:23:26.809Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:24:27.295Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:25:27.774Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:26:28.276Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:27:28.770Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:28:29.267Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:29:29.718Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:30:30.171Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:31:30.639Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:32:31.101Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:33:31.535Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:34:31.998Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:35:32.465Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:36:32.911Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:37:33.360Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:38:33.920Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:39:34.457Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:40:34.970Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:41:35.456Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:42:35.935Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:43:36.409Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:44:36.889Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:45:37.331Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:46:37.832Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:47:38.294Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:48:38.784Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:49:39.226Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:50:39.689Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:51:40.184Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:52:40.677Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:53:41.203Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:54:41.675Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:55:42.163Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:56:42.654Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:57:43.121Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:58:43.571Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T04:59:44.070Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:00:44.544Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:01:45.087Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:02:45.586Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:03:46.098Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:04:46.549Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:05:47.018Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:06:47.518Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:07:48.007Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:08:48.486Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:09:48.948Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:10:49.421Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:11:49.900Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:12:50.337Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:13:50.829Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:14:51.350Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:15:51.828Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:16:52.295Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:17:24.604Z - Lelouch Vi Botannia#3863 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:24:21.803Z - ニッケルドン#1804 left Salon server: 970078526382411867
+ 
+VOICE --> 2023-04-01T05:24:25.984Z - CharlieDelta45#4684 left Salon server: 970078526382411867
+ 
