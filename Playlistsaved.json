@@ -1,0 +1,24 @@
+{
+  "user": {
+    "418762590454284289": {
+      "playlists": [
+        {
+          "name": "Working Playlist",
+          "links": [
+            "https://www.youtube.com/watch?v=611k184Ia3E&list=PL5OQUkTRJ6cK1TYTbEHDdSV3itjmIqu1_&pp=gAQB"
+          ]
+        }
+      ]
+    },
+    "391814244435361802": {
+      "playlists": [
+        {
+          "name": "Discord Playlost",
+          "links": [
+            "https://www.youtube.com/playlist?list=PL9SwytZf2BP0Z1sU5geBUFNG22durc679"
+          ]
+        }
+      ]
+    }
+  }
+}
