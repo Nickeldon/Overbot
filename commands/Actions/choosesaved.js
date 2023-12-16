@@ -1,7 +1,8 @@
 const fs = require('fs');
 const {EmbedBuilder} = require('discord.js');
 const { ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
-const  play  = require('./Extentions/MusicEngine.js')
+const  play  = require('./Extentions/MusicEngine.js');
+const path = require('path');
 
 module.exports = {
     name: 'playsave',
@@ -11,7 +12,9 @@ module.exports = {
     async execute({ inter, client }) {
         await inter.deferReply();
         const user = inter.user.id;
-        var directory = fs.readFileSync('C:/Users/nicke/Downloads/Overbot/overbot/Playlistsaved.json')
+        var pathv = __dirname + '/Playlistsaved.json'
+        pathv = path.resolve('./Playlistsaved.json')
+        var directory = fs.readFileSync(pathv)
         var target = JSON.parse(directory);
         if (!target.user[user] || !target.user[user].playlists) {
             inter.editReply({content: 'You do not have any playlist saved, try saving one by using the /saveplaylist command', ephemeral: true});

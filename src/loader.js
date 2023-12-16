@@ -5,6 +5,7 @@ const { dirname } = require('path');
 client.commands = new Collection();
 CommandsArray = [];
 
+console.log(client.commands)
 
 
 const events = readdirSync('./events/').filter(file => file.endsWith('.js'));
