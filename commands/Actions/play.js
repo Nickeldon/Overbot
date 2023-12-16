@@ -11,11 +11,26 @@ module.exports = {
             description: 'the song you want to play',
             type: ApplicationCommandOptionType.String,
             required: true,
+
+        },
+
+        {
+            name: 'saved_channel',
+            description: 'display embeds in previously saved channel?',
+            type: ApplicationCommandOptionType.Boolean,
+            required: false,
+
         }
     ],
 
     async execute({ inter, client }) {
 	    await inter.deferReply();
+        
+        const pathv = __dirname + '/Extentions/externalchannel.json'
+        var channel
+        const json = fs.readFileSync(pathv)
+        const Object = JSON.parse(json);
+
         const song = inter.options.getString('song');
         const res = await player.search(song, {
             requestedBy: inter.member,
@@ -26,10 +41,33 @@ const timestamp = new Date().toISOString();
 const userrequest = inter.user.username;
         if(song){
             const musiclog = `MUSIC_ENGINE --> ${timestamp} - loading requested media content : ${song} by ${userrequest}; server: ${oldstate}`;
-            fs.appendFileSync('C:/Users/nicke/Downloads/Overbot/overbot/serverlogs.txt', musiclog + '\n \n');
+            fs.appendFileSync('./serverlogs.txt', musiclog + '\n \n');
         }
 
         if (!res || !res.tracks.length) return inter.editReply({ content: `No results found ${inter.member}... try again ? ❌`, ephemeral: true });
+
+        if(Object.path === true){
+            if(inter.options.getBoolean('saved_channel') === true && Object.channel) {
+                var Objchannel = Object.channel
+                
+                inter.channel.guildId = Objchannel.guildId
+                inter.channel.parentId = Objchannel.parentId
+                inter.channel.permissionOverwrites = Objchannel.permissionOverwrites
+                inter.channel.nsfw = Objchannel.nsfw
+                inter.channel.flags = Objchannel.flags
+                inter.channel.id = Objchannel.id
+                inter.channel.name = Objchannel.name
+                inter.channel.rawPosition = Objchannel.rawPosition
+                inter.channel.rateLimitPerUser = Objchannel.rateLimitPerUser
+    
+                
+                }
+            else{
+                //channel = inter.channel
+            }
+        }
+
+
 
         const queue = player.nodes.create(inter.guild, {
             metadata: {
@@ -44,7 +82,6 @@ const userrequest = inter.user.username;
             leaveOnEmpty: client.config.opt.leaveOnEmpty,
             leaveOnStop: client.config.opt.leaveOnStop
         });
-
         try {
             if (!queue.connection) await queue.connect(inter.member.voice.channel);
             if (!queue.connection) {
@@ -64,6 +101,12 @@ const userrequest = inter.user.username;
 
        if (!queue.isPlaying()) await queue.node.play();
 
-  
+  //FINALIZE CODE BY PURGING OBJECT.PATH
+  if(Object.path === true){
+    Object.path = false
+
+    fs.writeFileSync(pathv, JSON.stringify(Object))
+  }
+
     },
 };

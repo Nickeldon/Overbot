@@ -16,10 +16,12 @@
         "ffmpeg-static": "latest",
         "genius-lyrics": "latest",
         "help": "^3.0.2",
+        "http": "^0.0.1-security",
         "ms": "^3.0.0-canary.1",
         "node-wit": "^6.6.0",
         "opusscript": "latest",
         "play-dl": "latest",
-        "speedtest-net": "^2.2.0"
+        "speedtest-net": "^2.2.0",
+        "ytdl-core": "^4.11.5"
     }
 }

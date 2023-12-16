@@ -50,7 +50,7 @@ player.events.on('audioTrackAdd', (queue, track) => {
 });
 
 player.events.on('disconnect', (queue) => {
-    queue.metadata.channel.send('Vous êtes prêt même à vendre vos propres amis pour assouvir vos besoins!? *Il est pathétique que lon me rejette ainsi...*');
+    queue.metadata.channel.send('Vous êtes prêt même à vendre vos propres amis pour assouvir à vos besoins!? *Il est pathétique que l\'on me rejette ainsi...*');
 });
 
 player.events.on('emptyChannel', (queue) => {

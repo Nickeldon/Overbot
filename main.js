@@ -40,12 +40,12 @@ global.client.on('voiceStateUpdate', (oldState, newState) => {
   const timestamp = new Date().toISOString();
   if (oldState.channelId !== null) { 
     const message = `VOICE --> ${timestamp} - ${oldState.member.user.tag} left ${oldState.channel.name} server: ${oldstate}`;
-    fs.appendFileSync('C:/Users/nicke/Downloads/Overbot/overbot/serverlogs.txt', message + '\n \n');
+    fs.appendFileSync('./serverlogs.txt', message + '\n \n');
   }
   else if (!oldState.channelId) {
     const timestamp = new Date().toISOString();
     const message = `VOICE --> ${timestamp} - ${newState.member.user.tag} joined ${newState.channel.name}  server: ${newstate}`;
-    fs.appendFileSync('C:/Users/nicke/Downloads/Overbot/overbot/serverlogs.txt', message + '\n \n');
+    fs.appendFileSync('./serverlogs.txt', message + '\n \n');
   }
 });
 
@@ -58,7 +58,7 @@ global.client.on('messageCreate', message => {
   }}
     if (message.author.bot) return;
     const userID = message.author.id;
-    var userjson = fs.readFileSync('C:/Users/nicke/Downloads/Overbot/overbot/levelData.json');
+    var userjson = fs.readFileSync('./levelData.json');
     var object = JSON.parse(userjson);
     if (!object.user[userID]) {
         object.user[userID] = {
@@ -78,7 +78,7 @@ global.client.on('messageCreate', message => {
 botlevel += 2
       message.reply(`Mes félicitations.. vous avez atteint le niveau ${currentLevel} Cependant... JAMAIS VOUS NE DÉPASSEREZ MON ULTIME NIVEAU DE ${botlevel} MISÉRABLE!!`);
          }}
-    fs.writeFileSync('C:/Users/nicke/Downloads/Overbot/overbot/levelData.json', JSON.stringify(object));
+    fs.writeFileSync('./levelData.json', JSON.stringify(object));
   });
 
   /*global.client.on('guildCreate', guild => {
@@ -108,11 +108,11 @@ botlevel += 2
 
     if(bandwidth < 15){
       const message = 'INTERNET --> ALERT: Bandidth is lower than 15 Mbps, slowdowns may occur while using the application'
-      fs.appendFileSync('C:/Users/nicke/Downloads/Overbot/overbot/serverlogs.txt', message + '\n \n');
+      fs.appendFileSync('./serverlogs.txt', message + '\n \n');
       console.warn(message)
     } else if(downloadSpeed < 3){
       const message = 'INTERNET --> ALERT: Download speed value is lower than 20 MBps, slowdowns may occur while using the application' 
-      fs.appendFileSync('C:/Users/nicke/Downloads/Overbot/overbot/serverlogs.txt', message + '\n \n');
+      fs.appendFileSync('./serverlogs.txt', message + '\n \n');
       console.warn(message)
     } else{
       console.log("Connection ok")
@@ -123,11 +123,11 @@ botlevel += 2
 }
   }).catch(error => {
     console.error(message)
-    fs.appendFileSync('C:/Users/nicke/Downloads/Overbot/overbot/serverlogs.txt', error + '\n \n');
+    fs.appendFileSync('./serverlogs.txt', error + '\n \n');
   })
 } catch (error){
   console.error(message)
-  fs.appendFileSync('C:/Users/nicke/Downloads/Overbot/overbot/serverlogs.txt', error + '\n \n');
+  fs.appendFileSync('./serverlogs.txt', error + '\n \n');
 }
 }
   

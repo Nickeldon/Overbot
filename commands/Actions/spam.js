@@ -35,30 +35,32 @@ module.exports = {
         }
     ],
     async execute ({ inter }){
+        await inter.deferReply();
             const content = inter.options.getString('contenu');
             const target = inter.options.getUser('cible');
             const reps = inter.options.getInteger('facteur');
             const choice = inter.options.getString('direction');
             const ping = "<@" + (target.id) + ">" + ' '
-
             switch(choice){
                 case 'guild_target' : {
                     try{
                         console.log(content)
                         console.log(target)
-                    await inter.reply(ping + content)
+                    await inter.editReply(ping + content)
                     for(let i = 0; i <= reps; i++){
                     await inter.followUp(ping + content)}
-                }catch{
-                    inter.reply({content: 'failed to create fork', ephemeral: true})
+                }catch(e){
+                    console.log(e)
+                    inter.editReply({content: 'failed to create fork', ephemeral: true})
                 }} break;
                 case 'private_target': {
                     try{
                         await target.send(content)
                     for(let i = 0; i < reps; i++){                    
                     await target.send(content)}
-                }catch{
-                    inter.reply({content: 'failed to create fork', ephemeral: true})
+                }catch(e){
+                    console.log(e)
+                    inter.editReply({content: 'failed to create fork', ephemeral: true})
                 }} break;
             }
             
